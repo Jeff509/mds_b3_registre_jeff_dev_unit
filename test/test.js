@@ -86,7 +86,7 @@ test('Should be under or equal 1000', () => {
   const load2 = 500;
 
   expect(load1).toBeLessThan(1000);
-  expect(load1).toBeLessThanOrEqual(1000);
+  expect(load2).toBeLessThanOrEqual(1000);
 });
 
 // Regex
