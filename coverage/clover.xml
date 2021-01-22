@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611324976794" clover="3.2.0">
-  <project timestamp="1611324976795" name="All files">
+<coverage generated="1611330996097" clover="3.2.0">
+  <project timestamp="1611330996097" name="All files">
     <metrics statements="18" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="9" elements="28" coveredelements="26" complexity="0" loc="18" ncloc="18" packages="1" files="3" classes="3"/>
     <file name="anagram.js" path="/Users/registrejeff/Desktop/mds_b3_registre_jeff_dev_unit/src/anagram.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
