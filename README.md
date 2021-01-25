@@ -9,6 +9,8 @@ npm install coveralls --save-dev
 
 ## How to execute Coveralls?
 npm run coveralls
+## Coveralls
+[![Coverage Status](https://coveralls.io/repos/github/Jeff509/mds_b3_registre_jeff_dev_unit/badge.svg?branch=master)](https://coveralls.io/github/Jeff509/mds_b3_registre_jeff_dev_unit?branch=master)
 
 # How to execute test ? 
 npm run test
