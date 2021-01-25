@@ -12,3 +12,4 @@ npm run coveralls
 
 # How to execute test ? 
 npm run test
+[![Build Status](https://www.travis-ci.com/Jeff509/mds_b3_registre_jeff_dev_unit.svg?branch=master)](https://www.travis-ci.com/Jeff509/mds_b3_registre_jeff_dev_unit)
